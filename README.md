@@ -1,9 +1,8 @@
 # Face-verification-using-Alexnet-in-Matlab
 
-===================================================
 Get the code from here:
 https://gum.co/NSvEm
-===================================================
+
 Watch the code from here:
 https://youtu.be/ts-4c3R8WvQ
 
@@ -15,9 +14,7 @@ Contact me:
 email: s-ahmed.saleh@zewailcity.edu.eg
 List of all my codes: https://gumroad.com/ahmed_s
 
-===================================================
 Hire me directly on freelancer:
 https://www.freelancer.com/u/AhmedSobhiSaleh
-===================================================
 
 AlexNet, face recognition, machine learning, deep learning, CNN, ConvNet, face verification, real time, training set,test set,
